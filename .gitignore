@@ -8,3 +8,5 @@ _ReSharper.*
 *.cache
 *~
 *.swp
+builds/
+*-tests-results.xml

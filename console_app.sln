@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "console_app", "console_app\console_app.csproj", "{8BEE9BA2-1C6D-46A9-880F-DC6EF5EFD452}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "console_app.library", "console_app.library\console_app.library.csproj", "{25C41C26-A12B-4DF2-B1BB-37C36F061140}"
