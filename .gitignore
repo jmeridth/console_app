@@ -10,3 +10,4 @@ _ReSharper.*
 *.swp
 builds/
 *-tests-results.xml
+*.ReSharper.user
