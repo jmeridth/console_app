@@ -39,6 +39,9 @@ namespace console_app.tests.NameValidationTests
 
             name = "Thomas O'Reilly";
             Assert.That(name.Validate(), Is.True);
+
+            name = "Eric";
+            Assert.That(name.Validate(), Is.True);
         }
     }
 }
