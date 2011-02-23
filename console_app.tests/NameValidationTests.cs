@@ -21,6 +21,9 @@ namespace console_app.tests.NameValidationTests
 
             name = "Jason12345";
             Assert.That(name.Validate(), Is.False);
+
+            name = "12Jason12";
+            Assert.That(name.Validate(), Is.False);
         }
     }
 
